@@ -1,4 +1,9 @@
 # Java-Capstone-Project
+Second draft
+
+Cannot find symbol 'Entry'
+Everything else works 
+
 First draft
 
 8.21.22
